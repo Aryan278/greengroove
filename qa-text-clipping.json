@@ -1,0 +1,242 @@
+{
+  "viewports": {
+    "desktop": [
+      {
+        "text": "Sushanth",
+        "element": "h3#overview.h-ml",
+        "clipper": "div.about-card__text-h",
+        "overflowX": "hidden",
+        "overflowY": "hidden",
+        "clipPath": "none",
+        "scrollY": 1440,
+        "elementRect": {
+          "x": 70,
+          "y": 523.109375,
+          "w": 261.171875,
+          "h": 62
+        },
+        "clipperRect": {
+          "x": 70,
+          "y": 523.109375,
+          "w": 269.171875,
+          "h": 66
+        }
+      },
+      {
+        "text": "IIT Delhi HEI",
+        "element": "p.p-m",
+        "clipper": "div.pricing-card__sub-details",
+        "overflowX": "clip",
+        "overflowY": "clip",
+        "clipPath": "none",
+        "scrollY": 7200,
+        "elementRect": {
+          "x": 233.609375,
+          "y": 793.8125,
+          "w": 130.453125,
+          "h": 20.796875
+        },
+        "clipperRect": {
+          "x": 233.609375,
+          "y": 814.609375,
+          "w": 130.453125,
+          "h": 20.796875
+        }
+      },
+      {
+        "text": "RFID + sensing",
+        "element": "p.p-m",
+        "clipper": "div.pricing-card__sub-details",
+        "overflowX": "clip",
+        "overflowY": "clip",
+        "clipPath": "none",
+        "scrollY": 7200,
+        "elementRect": {
+          "x": 902.609375,
+          "y": 793.8125,
+          "w": 103.765625,
+          "h": 20.796875
+        },
+        "clipperRect": {
+          "x": 902.609375,
+          "y": 814.609375,
+          "w": 103.765625,
+          "h": 20.796875
+        }
+      }
+    ],
+    "tablet": [
+      {
+        "text": "Sushanth",
+        "element": "h3#overview.h-ml",
+        "clipper": "div.about-card__text-h",
+        "overflowX": "hidden",
+        "overflowY": "hidden",
+        "clipPath": "none",
+        "scrollY": 1474,
+        "elementRect": {
+          "x": 63.234375,
+          "y": 377.34375,
+          "w": 234.078125,
+          "h": 56.015625
+        },
+        "clipperRect": {
+          "x": 63.234375,
+          "y": 377.34375,
+          "w": 241.296875,
+          "h": 61
+        }
+      },
+      {
+        "text": "IIT Delhi HEI",
+        "element": "p.p-m",
+        "clipper": "div.pricing-card__sub-details",
+        "overflowX": "clip",
+        "overflowY": "clip",
+        "clipPath": "none",
+        "scrollY": 7370,
+        "elementRect": {
+          "x": 178.6875,
+          "y": 506.25,
+          "w": 118.6875,
+          "h": 18.78125
+        },
+        "clipperRect": {
+          "x": 178.6875,
+          "y": 525.03125,
+          "w": 118.6875,
+          "h": 18.78125
+        }
+      },
+      {
+        "text": "RFID + sensing",
+        "element": "p.p-m",
+        "clipper": "div.pricing-card__sub-details",
+        "overflowX": "clip",
+        "overflowY": "clip",
+        "clipPath": "none",
+        "scrollY": 7370,
+        "elementRect": {
+          "x": 624.359375,
+          "y": 442.640625,
+          "w": 80.40625,
+          "h": 37.5625
+        },
+        "clipperRect": {
+          "x": 624.359375,
+          "y": 480.203125,
+          "w": 80.40625,
+          "h": 18.78125
+        }
+      },
+      {
+        "text": "live cart",
+        "element": "p.p-m",
+        "clipper": "div.pricing-card__sub-details",
+        "overflowX": "clip",
+        "overflowY": "clip",
+        "clipPath": "none",
+        "scrollY": 7370,
+        "elementRect": {
+          "x": 624.359375,
+          "y": 498.984375,
+          "w": 80.40625,
+          "h": 18.78125
+        },
+        "clipperRect": {
+          "x": 624.359375,
+          "y": 480.203125,
+          "w": 80.40625,
+          "h": 18.78125
+        }
+      }
+    ],
+    "mobile": [
+      {
+        "text": "Sushanth",
+        "element": "h3#overview.h-ml",
+        "clipper": "div.about-card__text-h",
+        "overflowX": "hidden",
+        "overflowY": "hidden",
+        "clipPath": "none",
+        "scrollY": 1214,
+        "elementRect": {
+          "x": 40,
+          "y": 423.640625,
+          "w": 200.640625,
+          "h": 48
+        },
+        "clipperRect": {
+          "x": 40,
+          "y": 423.640625,
+          "w": 208.640625,
+          "h": 52
+        }
+      },
+      {
+        "text": "IIT Delhi HEI",
+        "element": "p.p-m",
+        "clipper": "div.pricing-card__sub-details",
+        "overflowX": "clip",
+        "overflowY": "clip",
+        "clipPath": "none",
+        "scrollY": 6677,
+        "elementRect": {
+          "x": 167.609375,
+          "y": 555.109375,
+          "w": 130.453125,
+          "h": 20.796875
+        },
+        "clipperRect": {
+          "x": 167.609375,
+          "y": 575.90625,
+          "w": 130.453125,
+          "h": 20.796875
+        }
+      },
+      {
+        "text": "RFID + sensing",
+        "element": "p.p-m",
+        "clipper": "div.pricing-card__sub-details",
+        "overflowX": "clip",
+        "overflowY": "clip",
+        "clipPath": "none",
+        "scrollY": 7284,
+        "elementRect": {
+          "x": 152.609375,
+          "y": 601.5625,
+          "w": 103.765625,
+          "h": 20.796875
+        },
+        "clipperRect": {
+          "x": 152.609375,
+          "y": 622.359375,
+          "w": 103.765625,
+          "h": 20.796875
+        }
+      },
+      {
+        "text": "Reversibility",
+        "element": "p.p-m",
+        "clipper": "div.footer-link__col-bottom-wrap",
+        "overflowX": "hidden",
+        "overflowY": "hidden",
+        "clipPath": "none",
+        "scrollY": 10319,
+        "elementRect": {
+          "x": 24,
+          "y": 634.78125,
+          "w": 85.921875,
+          "h": 20.796875
+        },
+        "clipperRect": {
+          "x": -6,
+          "y": 490.796875,
+          "w": 390,
+          "h": 0
+        }
+      }
+    ]
+  },
+  "candidate_count": 11
+}
